@@ -1,0 +1,2 @@
+com/example/samplepdflib/BuildConfig.java
+ com.example.samplepdflib.BuildConfig

@@ -1,0 +1,4 @@
+#Fri Jan 21 15:01:22 PKT 2022
+base.0=C\:\\Users\\BISMILLAH\\AndroidStudioProjects\\SamplePdfLib\\app\\build\\intermediates\\dex\\debug\\minifyDebugWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
